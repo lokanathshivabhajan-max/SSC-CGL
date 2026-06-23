@@ -4,7 +4,7 @@
       "id": 1,
       "textEN": "It is 1. question 1/8 + 1/16 and express the result as a decimal.",
       "textHI": "1/8 + 1/16 जोड़ें और परिणाम को दशमलव के रूप में व्यक्त करें।",
-      "image": "Screenshot 2026-06-13 8.40.46 AM.png",
+      "image": "https://www.punjabitribuneonline.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVuamFiaXRyaWJ1bmVvbmxpbmUtY29tLXByb2Qtc29ydGQvbWVkaWFhNDAxZWZlMC02ZjNiLTExZjEtYWZhZS0yZDczZTEzMGMxMWIuanBn",
       "options": ["0.1875", "0.2345", "0.5678", "0.3125"],
       "correct": "0",
       "explanation": "1/8 = 2/16. So, 2/16 + 1/16 = 3/16. 3 divided by 16 equals 0.1875.",
