@@ -1,0 +1,49 @@
+{
+  "D": [
+    {
+      "id": 16,
+      "textEN": "Complete the series: 2, 4, 8, 16, ___",
+      "textHI": "श्रृंखला को पूरा करें: 2, 4, 8, 16, ___",
+      "options": ["24", "28", "32", "36"],
+      "correct": "2",
+      "explanation": "Each number in the series is multiplied by 2 to get the next number. 16 * 2 = 32.",
+      "explanationHI": "अगली संख्या प्राप्त करने के लिए श्रृंखला की प्रत्येक संख्या को 2 से गुणा किया जाता है। 16 * 2 = 32।"
+    },
+    {
+      "id": 17,
+      "textEN": "If CAT is coded as 24, how is DOG coded?",
+      "textHI": "यदि CAT का कोड 24 है, तो DOG का कोड क्या होगा?",
+      "options": ["22", "26", "28", "30"],
+      "correct": "1",
+      "explanation": "The code is the sum of alphabetical positions: C(3) + A(1) + T(20) = 24. For DOG: D(4) + O(15) + G(7) = 26.",
+      "explanationHI": "कोड वर्णमाला के स्थानों का योग है: C(3) + A(1) + T(20) = 24। DOG के लिए: D(4) + O(15) + G(7) = 26।"
+    },
+    {
+      "id": 18,
+      "textEN": "Find the odd one out from the options.",
+      "textHI": "दिए गए विकल्पों में से विषम का चयन करें।",
+      "options": ["Car", "Bicycle", "Truck", "Train"],
+      "correct": "1",
+      "explanation": "A bicycle is the only vehicle listed that does not run on fuel or a motorized engine.",
+      "explanationHI": "साइकिल ही एकमात्र ऐसा वाहन है जो ईंधन या मोटर चालित इंजन पर नहीं चलता है।"
+    },
+    {
+      "id": 19,
+      "textEN": "Pointing to a man, a woman said, 'His mother is the only daughter of my father'. How is the woman related to the man?",
+      "textHI": "एक पुरुष की ओर इशारा करते हुए एक महिला ने कहा, 'उसकी माँ मेरे पिता की इकलौती बेटी है'। महिला का उस पुरुष से क्या संबंध है?",
+      "options": ["Sister", "Mother", "Aunt", "Grandmother"],
+      "correct": "1",
+      "explanation": "The 'only daughter of my father' is the woman speaking. Since this woman is the man's mother, the relationship is Mother.",
+      "explanationHI": "'मेरे पिता की इकलौती बेटी' बोलने वाली महिला स्वयं है। चूंकि यह महिला पुरुष की माँ है, इसलिए संबंध माँ का है।"
+    },
+    {
+      "id": 20,
+      "textEN": "If '+' means '×' and '–' means '÷', find the value of 6 + 4 – 2.",
+      "textHI": "यदि '+' का अर्थ '×' और '–' का अर्थ '÷' है, तो 6 + 4 – 2 का मान ज्ञात कीजिए।",
+      "options": ["8", "10", "12", "14"],
+      "correct": "2",
+      "explanation": "Substitute the signs: 6 × 4 ÷ 2. Following BODMAS, first divide (4 ÷ 2 = 2), then multiply (6 × 2 = 12).",
+      "explanationHI": "चिह्नों को बदलें: 6 × 4 ÷ 2। BODMAS का पालन करते हुए, पहले भाग दें (4 ÷ 2 = 2), फिर गुणा करें (6 × 2 = 12)।"
+    }
+  ]
+}
